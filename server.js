@@ -20,4 +20,4 @@ app.use("/movie", Movie)
 
 app.listen(PORT, () => {
     console.log("server is listening")
-})
+})  
